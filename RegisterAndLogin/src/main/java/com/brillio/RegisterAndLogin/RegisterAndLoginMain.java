@@ -1,0 +1,13 @@
+package com.brillio.RegisterAndLogin;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RegisterAndLoginMain {
+
+	public static void main(String[] args) {
+		SpringApplication.run(RegisterAndLoginMain.class, args);
+	}
+
+}
